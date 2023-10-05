@@ -1,0 +1,14 @@
+table,  th, td{
+    border: 1px solid black;
+}
+td,th{
+    padding: 10px;
+    text-align: center;
+}
+
+th{
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+}
